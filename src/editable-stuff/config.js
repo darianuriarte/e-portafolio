@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Darian",
   middleName: "",
   lastName: "Uriarte",
-  message: " Passionate about using technology to make a positive impact on the world. ",
+  message: " Passionate about using technology to make a positive impact ",
   icons: [
     {
       image: "fa-github",
@@ -108,30 +108,31 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for Software Engineering Internship opportunities! If you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "darianuriarte99@gmail.com",
 };
 
 const experiences = {
-  show: false,
-  heading: "Experiences",
+  show: true,
+  heading: "Experience",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
+      role: 'Full Stack Software Engineer',// Here Add Company Name
       companylogo: require('../assets/img/YIT.png'),
-      date: 'June 2018 – Present',
+      date: 'May 2023 - Present ',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/YIT.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Services Manager',
+      companylogo: require('../assets/img/ODP.png'),
+      date: 'Jan 2020 - Dec 2021',
+    },
+    {
+      role: 'IT Technician',
+      companylogo: require('../assets/img/compu.png'),
+      date: 'Jul 2018 - Dec 2019',
     },
   ]
 }
 
-// Blog SECTION
-// const blog = {
-//   show: false,
-// };
 
 export { navBar, mainBody, about, repos, skills, getInTouch, experiences };
