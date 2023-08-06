@@ -4,11 +4,11 @@
   <h1 align="center">E Portfolio ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects, experience and education background. Site URL / Demo: 
-    <a href="https://darianuriarte.github.io/e-portafolio">darianuriarte.github.io/e-portafolio</a>
+    It is a personal static website/portfolio template hosted with Netlify, built to showcase my recent projects, experience and education background. Site URL / Demo: 
+    <a href="https://darianuriarte.com">darianuriarte.com</a>
     <br />
     <br />
-    <a href="https://darianuriarte.github.io">About Me</a>
+    <a href="https://github.com/darianuriarte">About Me</a>
   </p>
 </p>
 
@@ -36,7 +36,7 @@ Dependencies defined in package.json:
 - Navigation bar (optional)
 - Body
   - Name | Profession
-  - Contact / Facebook / LinkedIn / GitHub /
+  - Contact / Instagram / LinkedIn / GitHub /
   - Resume | About me
 - About Me
   - Display picture (optional)
@@ -65,7 +65,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 2. Clone the forked repo from your account using:
 
    ```bash
-     git clone https://github.com/<your-username>/home.git
+     git clone https://github.com/darianuriarte/e-portafolio.git
    ```
 
 3. Open in editor and edit [src/editable-stuff/config.js](./src/editable-stuff/config.js) file.
@@ -112,12 +112,4 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
     
    Next time if you make changes, repeat from step 8.
 
-Facing issues? Feel free to contact at hashirshoaeb@gmail.com.
-
-
-# e-portafolio
-# e-portafolio
-# e-portafolio
-# Portafolio
-# e-portafolio
-# e-portafolio
+Facing issues? Feel free to contact me at darianuriarte99@gmail.com
